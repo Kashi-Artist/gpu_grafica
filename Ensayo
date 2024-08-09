@@ -1,0 +1,28 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pantalla de computador, cámara y una parte de un teclado  -->
+  <!-- Fondo café -->
+  <rect width="300" height="300" fill="#8B4513"/>
+  
+  <!-- Borde del monitor -->
+  <rect x="60" y="45" width="180" height="135" fill="#d1d1d1" stroke="black" stroke-width="4" rx="15" ry="15"/>
+  
+  <!-- Pantalla del monitor -->
+  <rect x="75" y="60" width="150" height="105" fill="white" stroke="black" stroke-width="1.5"/>
+
+  <!-- Cámara sobre la pantalla -->
+  <rect x="138.75" y="22.5" width="22.5" height="22.5" fill="#d1d1d1" stroke="black" stroke-width="2.5"/>
+  <circle cx="150" cy="33" r="7.5" fill="black"/>
+ 
+  <!-- Base de la pantalla -->
+  <rect x="112.5" y="180" width="75" height="15" fill="#808080" stroke="black" stroke-width="3"/>
+
+  <!-- Teclado -->
+  <rect x="90" y="225" width="120" height="30" fill="#c0c0c0" stroke="black" stroke-width="3" rx="5" ry="5"/>
+
+  <!-- Teclas del teclado -->
+  <rect x="97.5" y="232.5" width="15" height="15" fill="white" stroke="black" stroke-width="1.5"/>
+  <rect x="120" y="232.5" width="15" height="15" fill="white" stroke="black" stroke-width="1.5"/>
+  <rect x="142.5" y="232.5" width="15" height="15" fill="white" stroke="black" stroke-width="1.5"/>
+  <rect x="165" y="232.5" width="15" height="15" fill="white" stroke="black" stroke-width="1.5"/>
+  <rect x="187.5" y="232.5" width="15" height="15" fill="white" stroke="black" stroke-width="1.5"/>
+</svg>
